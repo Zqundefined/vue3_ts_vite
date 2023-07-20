@@ -1,0 +1,10 @@
+/dist/*
+/html/*
+.local
+.eslintrc
+/node_modules/**
+**/*.svg
+**/*.sh
+/public/*
+
+
